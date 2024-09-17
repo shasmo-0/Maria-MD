@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.ownernomer = "919400856482"
+global.ownername = "Shasmo"
+global.ytname = "YT: Shasmo"
+global.socialm = "GitHub: Shasmo-0"
 global.location = "Indian"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
+global.ownernumber = '919400856482'  //creator number
+global.ownername = 'Shasmo' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙𓆩‎✘Shasmo✘𓆪_✰'
 global.packname = 'Sticker By'
 global.author = 'Maria Bot'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Shasmo botz inc."
 
 //theme link
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
